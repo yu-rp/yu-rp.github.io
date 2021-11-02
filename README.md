@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋. This is Runpeng YU.
+I am a master student majored in Data Science and Information Technology in [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). Please refer to [my homepage](https://yu-rp.github.io/) for more about me.
 
 <!--
 **yu-rp/yu-rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
