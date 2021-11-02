@@ -2,7 +2,7 @@
 ---
 I am a master student majored in Data Science and Information Technology in [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). Please refer to [my homepage](https://yu-rp.github.io/) for more about me.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-rp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-rp&layout=compact)](https://github.com/yu-rp/github-readme-stats)
 
 
 <!--
