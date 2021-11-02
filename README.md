@@ -4,7 +4,7 @@ I am a master student majored in Data Science and Information Technology in [Tsi
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-rp&hide=stars,issues,contribs&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-rp&layout=compact&langs_count=5&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanWangZf&layout=compact&langs_count=5&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
