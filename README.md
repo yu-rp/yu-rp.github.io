@@ -2,7 +2,7 @@
 ---
 <!-- I am a master student majored in Data Science and Information Technology in [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). Please refer to [my homepage](https://yu-rp.github.io/) for more about me. -->
 
-I am a Ph.D. student majored in Data Science in NUS.
+I am a Ph.D. student majored in Data Science at NUS.
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-rp&hide=stars,issues,contribs&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
